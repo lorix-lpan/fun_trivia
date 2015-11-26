@@ -1,2 +1,3 @@
 # fun_trivia
-Some fun small projects I have done
+A repository consists mostly of projects I have done when I just started
+learning coding.
